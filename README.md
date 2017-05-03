@@ -9,7 +9,9 @@ $ csgo/cfg
 
 ### Usage
 
-Open terminal and type
+`autoexec.cfg` will automatically run when game initialize.
+
+Run dm server, open the `console` and type:
 ```
 $ exec dm.cfg
 ```
