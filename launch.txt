@@ -1,1 +1,1 @@
--noforcemaccel -noforcemparms -novid -freq 120 -refresh 120 -tickrate 128 -threads 8 -console -high nod3d9ex -nojoy -snd_openal +cl_forcepreload 1
+-high -tickrate 128 -novid -threads 8 -nod3d9ex - nojoy - refresh 120 +cl_forcepreload 1 -console -lv
